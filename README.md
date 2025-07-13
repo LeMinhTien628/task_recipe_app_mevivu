@@ -1,16 +1,17 @@
-# task
+<img width="510" height="1069" alt="image" src="https://github.com/user-attachments/assets/8fbdf4ff-7449-4197-8eec-1671c21623c4" /># 🍽️ Task Recipe App Mevivu
 
-A new Flutter project.
+Ứng dụng tìm kiếm công thức nấu ăn được phát triển bằng Flutter và tích hợp API từ TheMealDB.
 
-## Getting Started
+## Tính năng chính
+- Home:
+  
 
-This project is a starting point for a Flutter application.
+- Tìm kiếm món ăn theo tên
+- Hiển thị chi tiết công thức, nguyên liệu, hướng dẫn chế biến
+- Lưu món ăn yêu thích
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cài đặt & chạy ứng dụng
+git clone https://github.com/LeMinhTien628/task_recipe_app_mevivu.git
+cd task_recipe_app_mevivu
+flutter pub get
+flutter run
